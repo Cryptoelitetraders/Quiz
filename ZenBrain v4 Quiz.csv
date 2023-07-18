@@ -1,0 +1,75 @@
+﻿Guru Quiz,
+,
+1. Age:,Select -:
+,18-30
+,30-40
+,40-50
+,50-60
+,Over 60
+,
+,Select -:
+2. Diet:,Standard balanced diet
+,Vegetarian
+,Vegan
+,Other (please describe)
+,
+,Select -:
+3. Describe your diet:,"Standard balanced diet: A diet that includes a variety of food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats in appropriate proportions."
+,"Vegetarian: A diet that excludes meat and seafood but includes plant-based foods such as fruits, vegetables, grains, legumes, nuts, and seeds."
+,"Vegan: A diet that excludes all animal products, including meat, seafood, dairy, eggs, and honey, and focuses on plant-based foods."
+,Pescatarian: A diet that excludes meat but includes seafood along with plant-based foods.
+,"Low carb: A diet that restricts the intake of carbohydrates, primarily from sources like grains, sugar, and starchy vegetables."
+,"High protein: A diet that emphasizes consuming a significant amount of protein from sources like lean meats, poultry, fish, dairy, legumes, and plant-based protein sources."
+,"Mediterranean: A diet inspired by traditional eating habits of countries bordering the Mediterranean Sea, focusing on fruits, vegetables, whole grains, legumes, lean proteins (such as fish and poultry), and healthy fats (like olive oil and nuts)."
+,"Keto: A low-carb, high-fat diet that aims to induce a metabolic state called ketosis, where the body primarily burns fat for fuel."
+,"Gluten-free: A diet that excludes the protein gluten, found in wheat, barley, rye, and some other grains."
+,Other: Please specify any unique or specific aspects of your diet.
+,Select -:
+4. Gender:,Male
+,Female
+, 
+,Select -:
+5. Health goals:,Improve overall health and well-being
+,Boost energy levels
+,Enhance cognitive function and mental clarity
+,Support immune system
+,Promote joint and bone health
+,Improve digestive health
+,Support weight management
+,Other (please specify)
+,Select -:
+6. Sleep duration:,Less than 6 hours
+,6-8 hours
+,More than 8 hours
+,
+,
+,Select -:
+7. Morning tiredness:,Very tired
+,Somewhat tired
+,Refreshed and energized
+,
+,Select -:
+8. Medication usage:,Not taking any medications
+,Taking medication(s) (Please specify)
+,
+,Select -:
+9. Health conditions or diseases:,No known health conditions or diseases
+,"Yes, I have health condition(s) or disease(s) (Please specify)"
+,Select -:
+10. Current stress levels:,Low
+,Moderate
+,High
+,Select -:
+10. Allergies or dietary restrictions:,No allergies or dietary restrictions
+,"Yes, I have allergies or dietary restrictions (Please specify)"
+,Select -:
+10. Physical activity level:,Sedentary (little to no exercise)
+,Lightly active (1-3 days of exercise per week)
+,Moderately active (3-5 days of exercise per week)
+,Very active (6-7 days of exercise per week)
+,Extremely active (intense physical activity or professional athlete)
+,
+,Select -:
+Do you frequently experience symptoms of brain fog or difficulty maintaining focus?,"Yes, I often experience brain fog or difficulty focusing."
+,"Occasionally, I experience brain fog or difficulty focusing."
+,"No, I rarely experience brain fog or difficulty focusing"
